@@ -99,6 +99,7 @@ List of IPTV providers.
 
 #### Paid
 
+- [Beams TV](https://beams-tv.stream/) - Over 6000 live TV channels + Catchup + VOD | Most of the world covered.
 - [IPTV Shop](https://iptv.shop/) - Over 6000 live TV channels + 4000 Movies & TV Shows (VOD).
 - [BestBuyIPTV](https://bestbuyiptv.com/) - Over 7300 HD channels and 9600 VOD 1080p, of more than 38 countries.
 - [Happy Watch 99](https://happywatch99.com/) - Live Khmer & Thai TV, Movies and Series.
